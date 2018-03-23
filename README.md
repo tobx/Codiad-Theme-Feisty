@@ -12,7 +12,7 @@ Feisty Theme for Codiad – http://codiad.com
 
 Set Feisty as your default theme:
 
-- Edit `config.php` and set `define("THEME", "feisty");`.
+- Edit `config.php` and set `define("THEME", "feisty");`
 
 ## Note
 
