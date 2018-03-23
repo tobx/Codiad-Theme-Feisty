@@ -20,4 +20,4 @@ To set Feisty as your default theme:
 
 ## Note
 
-I created this theme mainly for myself, but I would be happy to help, if you have issues with it (as long as you are using a modern web browser).
+I would be happy to help, if you have any issues with this theme (as long as you are using a modern web browser).
