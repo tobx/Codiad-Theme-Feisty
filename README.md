@@ -2,6 +2,8 @@
 
 Feisty Theme for Codiad – http://codiad.com
 
+The included SVG icons were specifically designed for this theme. Please ask the author of this theme, if you want to use them for any other purpose.
+
 ![Screenshot](https://github.com/tobx/Codiad-Theme-Feisty/blob/master/screen.png?raw=true)
 
 ## Installation
