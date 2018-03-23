@@ -14,7 +14,7 @@ The included SVG icons were specifically designed for this theme. Please ask the
  - Refresh the Codiad website
  - Click `More` at the login screen and choose the theme `feisty`
 
-Set Feisty as your default theme:
+To set Feisty as your default theme:
 
 - Edit `config.php` and set `define("THEME", "feisty");`
 
