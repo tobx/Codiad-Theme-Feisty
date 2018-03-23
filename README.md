@@ -12,7 +12,7 @@ The included SVG icons were specifically designed for this theme. Please ask the
 
  - Download this repository as zip file and extract it to your Codiad theme folder
  - Refresh the Codiad website
- - Click `More` at the login screen and choose theme Feisty
+ - Click `More` at the login screen and choose the Feisty theme
 
 Set Feisty as your default theme:
 
