@@ -16,8 +16,7 @@ The included SVG icons were specifically designed for this theme. Please ask the
 
 To set Feisty as your default theme:
 
-- Edit `config.php` and set `define("THEME", "feisty");`
-- Edit `data/settings.php` and replace `"codiad.theme":"default"` with `"codiad.theme":"feisty"`
+- Edit `config.php` and set `define("THEME", "Codiad-Theme-Feisty");`
 
 ## Note
 
